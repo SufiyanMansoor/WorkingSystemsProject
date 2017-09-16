@@ -1,0 +1,40 @@
+<ion-side-menus enable-menu-with-back-views="false" class="menuwall">
+  <ion-side-menu-content class="padding"  >
+    <ion-nav-bar class="bar-stable">
+      <ion-nav-back-button>
+      </ion-nav-back-button>
+
+      <ion-nav-buttons side="left">
+        <button class="button button-icon button-clear ion-navicon button-royal butsetmenu" menu-toggle="left">
+           Press Me
+        </button>
+      </ion-nav-buttons>
+    </ion-nav-bar>
+   <ion-view>
+     <ion-nav-view name="menuContent" class=" menuwall"></ion-nav-view>
+  </ion-side-menu-content>
+
+  <ion-side-menu side="left" class="padding" >
+    <ion-header-bar class="bar-stable">
+      <h1 class="title">MENU</h1>
+    </ion-header-bar>
+    <ion-content class="tans">
+      <ion-list class="padding" >
+        <ion-item menu-close href="#/app/home2">
+          HOME
+        </ion-item>
+        <ion-item menu-close href="#/app/ITEMCATEGORIES" >
+          ITEM CATEGORIES
+        </ion-item>
+        <ion-item menu-close href="#/app/NEWITEMUPDATE" >
+          NEW ITEM UPDATE
+        </ion-item>
+        <ion-item menu-close href="#/app/ABOUTFASTER" >
+          ABOUT FASTER
+        </ion-item>
+        <ion-item menu-close href="#/app/CONTACT">
+          CONTACT
+        </ion-item>
+    </ion-content>
+  </ion-side-menu>
+</ion-side-menus>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/www/css/style.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/js/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/js/controller.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/about.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/contact.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/home.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/intro.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/main.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/signup.html" charset="UTF-8" />
+  </component>
+</project>

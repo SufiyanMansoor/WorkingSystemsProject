@@ -1,0 +1,156 @@
+/* Empty. Add your own CSS if you like */
+body {
+  cursor: url('https://ionicframework.com/img/finger.png'), auto;
+}
+.slider {
+  height: 100%;
+}
+.scroll-content {
+  overflow-y: hidden;
+}
+.slider-slide {
+  padding-top: 80px;
+  color: #000;
+  background-color: #fff;
+  text-align: center;
+
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+}
+
+#logo {
+  margin: 30px 0px;
+}
+
+#list {
+  width: 170px;
+  margin: 30px auto;
+  font-size: 20px;
+}
+#list ol {
+  margin-top: 30px;
+}
+#list ol li {
+  text-align: left;
+  list-style: decimal;
+  margin: 10px 0px;
+}
+
+.button.ng-hide{
+  display:none;
+}
+
+.back3image
+{
+  background: url(../img/fastermoon.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+.back2image
+{
+  background: url(../img/fastermoon2.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+.back1image
+{
+  background: url(../img/fastermoon2.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+.butset
+{
+  border: 2px solid rgba(240, 224, 255, 0.54) !important;
+  border-radius: 50px !important;
+  font-size: 1.5em;
+  font-family: "Roboto";
+  color: #f9f9ff !important;
+
+}
+.butset:hover
+{
+  background-color: rgba(240, 224, 255, 0.54) !important;
+
+}
+.logon
+{
+  text-align: center;
+  font-family: Helvetica Neue Light;
+  color: #f7f6ff;
+  font-size: 2.0em;
+  letter-spacing: 3px;
+}
+.centeor
+{
+  text-align: center;
+  font-size: 2.0em;
+  color: #ffc792;
+  font-family: "monospace";
+
+
+}
+.fb
+{
+  background-color:#3476ff;
+  color: white !important;
+}
+.gmail
+{
+  color: red !important;
+
+}
+.pagewall
+{
+  background: url(../img/fastermoon3.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.text-input:only-of-type     {
+  color: whitesmoke;
+}
+
+.text-input:only-of-type {
+  color: whitesmoke;
+}
+
+.text-input:only-of-type {
+  color: whitesmoke;
+}
+.colchange:only-of-type
+{
+  color: whitesmoke;
+}
+.tans
+{
+background: transparent !important;
+}
+.menuwall
+{
+  background: url(../img/menuwall.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.butsetmenu
+{
+  font-size: 2.0em;
+  text-align: center !important;
+}
+.smallfont
+{
+  font-size: 0.5em !important;
+
+}
+
