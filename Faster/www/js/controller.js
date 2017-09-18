@@ -31,7 +31,7 @@ angular.module('starter.controllers', [])
   .controller('SignupCtrl', function($scope, $state) {
 
   })
-  .controller('DEALS', function($scope, $state) {
+  .controller('DEALSCtrl', function($scope, $state) {
 
   })
   .controller('SMARTWATCHESCtrl', function($scope, $state) {
@@ -41,6 +41,9 @@ angular.module('starter.controllers', [])
 
   })
   .controller('MEMORYCARDCtrl', function($scope, $state) {
+
+  })
+  .controller('CHARGERCtrl', function($scope, $state) {
 
   })
   .controller('CABLESYNCCtrl', function($scope, $state) {
@@ -84,9 +87,6 @@ angular.module('starter.controllers', [])
 
   })
   .controller('ABOUTFASTERCtrl', function($scope, $state) {
-
-  })
-  .controller('CONTACTCtrl', function($scope, $state) {
 
   })
   .controller('CONTACTCtrl', function($scope, $state) {

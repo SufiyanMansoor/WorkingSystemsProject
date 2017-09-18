@@ -59,7 +59,12 @@ angular.module('starter', ['ionic', 'starter.controllers'])
       .state('MEMORYCARD', {
         url: '/MEMORYCARD',
         templateUrl: 'templates/MEMORYCARD.html',
-        controller: 'MEMORYCARD'
+        controller: 'MEMORYCARDCtrl'
+      })
+      .state('CHARGER', {
+        url: '/CHARGER',
+        templateUrl: 'templates/CHARGER.html',
+        controller: 'CHARGERCtrl'
       })
       .state('CABLESYNC', {
         url: '/CABLESYNC',
