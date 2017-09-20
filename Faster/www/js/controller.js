@@ -92,4 +92,133 @@ angular.module('starter.controllers', [])
   .controller('CONTACTCtrl', function($scope, $state) {
 
   })
+  /*POWER BANK CONTROLLER START*/
+  .controller('ADATAPOWERBANKCtrl', function($scope, $state) {
+
+  })
+  .controller('FASTERPOWERBANKCtrl', function($scope, $state) {
+
+  })
+  .controller('REMAXPOWERBANKCtrl', function($scope, $state) {
+
+  })
+  .controller('ROMOSSPOWERBANKCtrl', function($scope, $state) {
+
+  })
+  .controller('XIAOMIPOWERBANKCtrl', function($scope, $state) {
+
+  })
+  /*Memory Card Controller Start*/
+  .controller('FASTERMEMORYCARDCtrl', function($scope, $state) {
+
+  })
+  .controller('KINGSTONMEMORYCARDCtrl', function($scope, $state) {
+
+  })
+  /*Charger Controller Start*/
+  .controller('CARCHARGERCtrl', function($scope, $state) {
+
+  })
+  .controller('HOMECHARGERCtrl', function($scope, $state) {
+
+  })
+  .controller('SOCKETCtrl', function($scope, $state) {
+
+  })
+ /*Cable $ Sync Controller*/
+  .controller('BASEUSCABLESYNCCtrl', function($scope, $state) {
+
+  })
+  .controller('BOBINECABLESYNCCtrl', function($scope, $state) {
+
+  })
+  .controller('FASTERSYNCCABLECtrl', function($scope, $state) {
+
+  })
+  .controller('REMAXSYNCCABLECtrl', function($scope, $state) {
+
+  })
+/* Usb Flash Drive Controller*/
+  .controller('ADATAFLASHDRIVECtrl', function($scope, $state) {
+
+  })
+  .controller('FASTERFLASHDRIVECtrl', function($scope, $state) {
+
+  })
+  .controller('KINGSTONFLASHDRIVECtrl', function($scope, $state) {
+
+  })
+  .controller('SANDISKFLASHDRIVECtrl', function($scope, $state) {
+
+  })
+/* Bluetooth HeadPhone */
+  .controller('FASTERHEADPHONECtrl', function($scope, $state) {
+
+  })
+  .controller('WUWBLUETOOTHHEADPHONECtrl', function($scope, $state) {
+
+  })
+/*VRBOX Controller*/
+  .controller('VRBOXCtrl', function($scope, $state) {
+
+  })
+/*Blue Tooth Hands Free Controller*/
+  .controller('FASTERBLUETOOTHHANDSFREECtrl', function($scope, $state) {
+
+  })
+  .controller('REMAXBLUETOOTHHANDSFREECtrl', function($scope, $state) {
+
+  })
+  .controller('ROMANBLUETOOTHHANDSFREECtrl', function($scope, $state) {
+
+  })
+  /*Blue Tooth Speaker Controller*/
+  .controller('FASTERBLUETOOTHSPEAKERCtrl', function($scope, $state) {
+
+  })
+  .controller('REMAXBLUETOOTHSPEAKERCtrl', function($scope, $state) {
+
+  })
+  /*HANDS FREE AND HEAD PHONE  Controller*/
+  .controller('FASTERHANDSFREEANDHEADPHONECtrl', function($scope, $state) {
+
+  })
+  .controller('REMAXHANDSFREEANDHEADPHONECtrl', function($scope, $state) {
+
+  })
+  /*Special Fields Controller*/
+  .controller('BASEUSCtrl', function($scope, $state) {
+
+  })
+  .controller('BLUETOOTHCtrl', function($scope, $state) {
+
+  })
+  .controller('CARDREADERCtrl', function($scope, $state) {
+
+  })
+  .controller('CHROMECASTCtrl', function($scope, $state) {
+
+  })
+  .controller('MICtrl', function($scope, $state) {
+
+  })
+  .controller('TVBOXCtrl', function($scope, $state) {
+
+  })
+  .controller('FASTERCtrl', function($scope, $state) {
+
+  })
+  .controller('REMAXCtrl', function($scope, $state) {
+
+  })
+  .controller('ROMANCtrl', function($scope, $state) {
+
+  })
+  .controller('UNICCtrl', function($scope, $state) {
+
+  })
+  .controller('WIRELESSKEYBOARDCtrl', function($scope, $state) {
+
+  })
+
 ;

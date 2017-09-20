@@ -5,24 +5,64 @@
     <file url="file://$PROJECT_DIR$/www/js/app.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/www/js/controller.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/www/templates/ABOUTFASTER.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/ADATAFLASHDRIVE.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/ADATAPOWERBANK.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/BASEUS.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/BASEUSCABLESYNC.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/BLUETOOTH.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/www/templates/BLUETOOTHHANDSFREE.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/www/templates/BLUETOOTHHEADPHONE.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/www/templates/BLUETOOTHSPEAKER.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/BOBINECABLESYNC.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/www/templates/CABLESYNC.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/CARCHARGER.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/CARDREADER.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/www/templates/CASECOVER.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/www/templates/CHARGER.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/CHROMECAST.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/www/templates/CONTACT.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/www/templates/DEALS.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/FASTER.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/FASTERBLUETOOTHHANDSFREE.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/FASTERBLUETOOTHSPEAKER.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/FASTERFLASHDRIVE.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/FASTERHANDSFREEANDHEADPHONE.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/FASTERHEADPHONE.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/FASTERMEMORYCARD.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/FASTERPOWERBANK.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/FASTERSYNCCABLE.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/www/templates/HANDSFREEANDHEADPHONE.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/HOMECHARGER.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/www/templates/ITEMCATEGORIES.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/KINGSTONFLASHDRIVE.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/KINGSTONMEMORYCARD.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/www/templates/MEMORYCARD.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/MI.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/www/templates/NEWITEMUPDATE.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/www/templates/POWERBANK.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/REMAX.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/REMAXBLUETOOTHHANDSFREE.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/REMAXBLUETOOTHSPEAKER.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/REMAXHANDSFREEANDHEADPHONE.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/REMAXHEADPHONE.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/REMAXPOWERBANK.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/REMAXSYNCCABLE.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/ROMAN.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/ROMANBLUETOOTHHANDSFREE.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/ROMOSSPOWERBANK.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/SANDISKFLASHDRIVE.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/www/templates/SMARTWATCHES.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/SOCKET.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/www/templates/SPECIAL.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/TVBOX.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/UNIC.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/www/templates/USBFLASHDRIVE.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/www/templates/VIRTUALREALITY.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/VRBOX.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/www/templates/WIRELESSCHARGER.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/WIRELESSKEYBOARD.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/WUWBLUETOOTHHEADPHONE.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/templates/XIAOMIPOWERBANK.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/www/templates/home.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/www/templates/home2.html" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/www/templates/intro.html" charset="UTF-8" />
