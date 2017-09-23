@@ -31,6 +31,9 @@ angular.module('starter.controllers', [])
   .controller('SignupCtrl', function($scope, $state) {
 
   })
+  .controller('SHOPPINGCARTCtrl', function($scope, $state) {
+
+  })
   .controller('DEALSCtrl', function($scope, $state) {
 
   })

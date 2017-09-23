@@ -161,6 +161,15 @@ angular.module('starter', ['ionic', 'starter.controllers'])
           }
         }
       })
+      .state('app.SHOPPINGCART', {
+        url: '/SHOPPINGCART',
+        views: {
+          'menuContent': {
+            templateUrl: 'templates/SHOPPINGCART.html',
+            controller: 'SHOPPINGCARTCtrl'
+          }
+        }
+      })
       /*Power Bank UnderRoot Start*/
       .state('ADATAPOWERBANK', {
         url: '/ADATAPOWERBANK',
