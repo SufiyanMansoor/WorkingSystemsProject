@@ -8,11 +8,6 @@ angular.module( 'starter', [ 'ngMaterial','ui.router','starter.controllers' ] )
     .config(function($stateProvider, $urlRouterProvider) {
 
         $stateProvider
-            .state('mainmenu', {
-                url: '/mainmenu',
-                templateUrl: 'templates/mainmenu.html',
-                controller: 'mainmenuCtrl'
-            })
             .state('customerorders', {
                 url: '/customerorders',
                 templateUrl: 'templates/customerorders.html',
@@ -28,7 +23,7 @@ angular.module( 'starter', [ 'ngMaterial','ui.router','starter.controllers' ] )
                 templateUrl: 'templates/uploadproducts.html',
                 controller: 'uploadproductsCtrl'
             })
-        $urlRouterProvider.otherwise("/mainmenu");
+        $urlRouterProvider.otherwise("/");
 
 
     })
