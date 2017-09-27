@@ -12,6 +12,34 @@
 .butlarge
 {
    width: 250px !important;
+}
+.fullimageset
+{
+    background: url("img/fasteroutlet.jpg") no-repeat center center fixed !important;
+    -webkit-background-size: cover !important;
+    -moz-background-size: cover ;
+    -o-background-size: cover !important;
+    background-size: cover !important;
+}
+.fasterandroid
+{
+    color: #90faff;
+    font-size: 2.0em;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+.toolbarcolchange1
+{
+    background-color: darkorange!important;
+    color: white !important;
+    text-align: center !important;
+    font-family: cursive !important;
+    height: 50px;
 
-
+}
+.wordschange
+{
+   font-size: 1.5em !important;
+    font-family: cursive !important;
 }
